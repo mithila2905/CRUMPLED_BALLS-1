@@ -1,2 +1,1 @@
-# CRUMPLED_BALLS-1
-proj24
+# CrumpledPaper
